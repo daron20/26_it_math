@@ -1,0 +1,5 @@
+# 실행 결과는 매번 다시 생성됨
+results/
+sample/results/
+__pycache__/
+*.pyc
